@@ -1,0 +1,1 @@
+This program is made to show the people the information about the death rates of the main diseases in order to show clarify the main problems of people. It is also can predict the development of that illnesses on the short period of time.
