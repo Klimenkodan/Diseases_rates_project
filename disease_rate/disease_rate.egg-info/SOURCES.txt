@@ -1,0 +1,16 @@
+README.md
+setup.py
+disease_rate.egg-info/PKG-INFO
+disease_rate.egg-info/SOURCES.txt
+disease_rate.egg-info/dependency_links.txt
+disease_rate.egg-info/top_level.txt
+main_program/__init__.py
+main_program/config.py
+main_program/diseas.py
+main_program/example.py
+main_program/example_disease.py
+main_program/main.py
+main_program/parse.py
+main_program/predicting.py
+main_program/responce.py
+main_program/test_disease.py
