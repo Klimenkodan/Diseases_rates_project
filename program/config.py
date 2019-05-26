@@ -1,0 +1,9 @@
+FILE_NAME = 'new_file.xml'
+VALUE = 50
+NUM_DEATHS = 2
+NAME_DISEASE = 1
+YEAR = 0
+MAXIMUM_YEAR = 2027
+MINIMUM_YEAR = 1999
+PHRASE = 'Non-Injury: '
+URL = "https://wonder.cdc.gov/controller/datarequest/D76"
